@@ -1,0 +1,5 @@
+# Graphical
+customtkinter==5.2.0
+
+# Configuration
+configparser==5.3.0
